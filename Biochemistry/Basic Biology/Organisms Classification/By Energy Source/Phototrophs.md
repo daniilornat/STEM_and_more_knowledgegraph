@@ -1,0 +1,1 @@
+Organisms that [[Producing energy from light|receiving energy from light]] 

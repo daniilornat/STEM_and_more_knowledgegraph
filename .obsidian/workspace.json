@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "779e59b688ab253f",
+        "id": "45f4216615791382",
         "type": "tabs",
         "children": [
           {
-            "id": "0d797cedb622cb22",
+            "id": "009765f5ac2093e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Pharmacology/Биологические Цели.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "aafba70b19f66b87",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e5aa6ad2bcbaeaf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Биологические Цели"
             }
           }
         ]
@@ -52,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -170,12 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d1e9a2b689005f5",
+  "active": "009765f5ac2093e2",
   "lastOpenFiles": [
-    "Biochemistry/Basic Chemistry",
-    "Biochemistry/Basic Biology",
-    "Biochemistry",
-    "create a link.md",
-    "Welcome.md"
+    "Mathematical Oncology/Treatment Methods/Targeted Therapy/Целевая Терапия.md",
+    "Molecular Biology/Нуклеиновые Кислоты/АТФ.md",
+    "Molecular Biology/Белки",
+    "Mathematical Oncology/Резистентность Раковых Клеток Терапии.md",
+    "Mathematical Oncology/Data-Driven/ML Applications/Data Platforms.md",
+    "Mathematical Oncology/Data-Driven",
+    "Bioinformatics/Об Области.md",
+    "Mathematical Oncology/Data-Driven/ML Applications",
+    "Bioinformatics/Сходство в Биоинформатике.md",
+    "Molecular Biology/Белки/Белки.md",
+    "Molecular Biology/Нуклеиновые Кислоты/Нуклеиновые Кислоты.md",
+    "Molecular Biology/Нуклеиновые Кислоты/Нуклеотиды.md",
+    "Molecular Biology/Нуклеиновые Кислоты/Строение/Пирамидин.md",
+    "Molecular Biology/Нуклеиновые Кислоты/Строение/Пурин.md",
+    "Bioinformatics",
+    "Pharmacology/Биологические Цели.md",
+    "Pharmacology",
+    "Mathematical Oncology/Basic Oncology/Tumor cells.md",
+    "Molecular Biology/ДНК/ДНК.md",
+    "Mathematical Oncology/Treatment Methods/Targeted Therapy",
+    "Mathematical Oncology/Treatment Methods",
+    "Molecular Biology/Нуклеиновые Кислоты/Функции Нуклеотидов/Передача Энергии в Биохимии.md",
+    "Molecular Biology/Нуклеиновые Кислоты/Функции Нуклеотидов",
+    "Molecular Biology/Нуклеиновые Кислоты/Строение/Строение Нуклеиновых Кислот.md",
+    "Molecular Biology/Нуклеиновые Кислоты/Строение/Гетероциклические Соединения.md",
+    "Pasted image 20250218103534.png",
+    "Molecular Biology/Органические Молекулы.md",
+    "Molecular Biology/Нуклеиновые Кислоты/Строение/Азотистое Основание.md",
+    "Pasted image 20250218095400.png",
+    "Molecular Biology/ДНК",
+    "Molecular Biology/Молекулярная биология.md",
+    "Molecular Biology/Гемоетрическая Форма Молекул.md",
+    "Molecular Biology/Нуклеиновые Кислоты/Строение",
+    "Biochemistry/Basic Chemistry/Полимеры.md",
+    "Biochemistry/Basic Chemistry/Нерегулярные Полимеры.md",
+    "Biochemistry/Basic Chemistry/Остаток в Биохимии.md",
+    "Mathematical Oncology/Basic Oncology/Formation of Tumor Cells.md"
   ]
 }

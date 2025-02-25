@@ -1,0 +1,1 @@
+Not requiring oxygen. Obligate anaerobes - cells that cannot live in oxygen environment. Facultative anaerobes - can live with and without oxygen

@@ -1,0 +1,1 @@
+Organisms that [[Producing energy from oxidation of chemicals|receiving energy from oxidation of chemicals]]

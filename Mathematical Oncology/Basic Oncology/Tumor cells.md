@@ -1,0 +1,1 @@
+Mass of abnormal cells that caused by mutations of normal cells due to [[DNA Replication]]. Can [[How Cancer Causes Damage to Organism|cause damage to normal cells]]. Have property of [[Heterogeneity]] but also all tumor cells share [[Hallmarks of Cancer|common features]]

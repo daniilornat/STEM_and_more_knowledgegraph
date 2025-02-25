@@ -1,0 +1,1 @@
+Organisms that receiving energy from organic compounds produced by other organisms

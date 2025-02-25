@@ -1,0 +1,3 @@
+Property of tumor cells to have very distinct properties in different patients and even in different cells within single tumor. Consequence of [[DNA Replication]] and absence of [[Constrain mutation]] in malignant cells. It makes treatment development harder because every strategy that can destroy some malignant cells possibly can provide growth to other cells.
+
+Можно представлять гены клеток, клетки или всю ткань в виде временного ряда для прогнозирования эффекта лекарств и диагностики

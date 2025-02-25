@@ -1,0 +1,1 @@
+Receiving energy from [[Phototrophs|light]] and [[Chemotrophs|chemical]] sources
